@@ -3,7 +3,7 @@ apt update -y
 apt upgrade -y
 pkg install git -y 
 pkg install proot-distro -y
-proot-distro install debian 
+proot-distro install ubuntu 
 cd
 cd TRoot
 mkdir tt
