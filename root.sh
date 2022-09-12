@@ -1,4 +1,4 @@
-echo "process start......"i
+echo "process start......"
 apt update -y
 apt upgrade -y
 pkg install git -y 
